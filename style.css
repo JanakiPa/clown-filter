@@ -9,7 +9,7 @@ h3{
 
 canvas{
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 6s;
     animation-iteration-count: infinite;
 }
 
